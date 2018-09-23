@@ -1,0 +1,19 @@
+{
+  "name": "vk_story_bot",
+  "version": "1.0.0",
+  "description": "Search and watch VK stories automaticly! Popularity here I come!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ciricc and IS2511",
+  "license": "MIT",
+  "dependencies": {
+    "depd": "^1.1.2",
+    "easyvk": "file:./easyvk-dev",
+    "mongodb": "^3.1.6",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  }
+}
